@@ -24,8 +24,7 @@ To set up and run the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/personal-bookshelf.git
-   cd personal-bookshelf
+   git clone https://github.com/sarthakkurothe/marquee_assignment.git
    
 2. **Install dependencies:**
    ```bash
